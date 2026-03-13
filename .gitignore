@@ -1,0 +1,21 @@
+# API keys and environment
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB local database
+cria_memory/
+
+# Output files (contain synthetic data but keep clean)
+*.json
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
